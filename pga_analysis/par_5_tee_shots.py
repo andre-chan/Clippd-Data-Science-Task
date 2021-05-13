@@ -10,7 +10,7 @@ import seaborn as sns
 from sklearn.neighbors import RadiusNeighborsRegressor, KNeighborsRegressor
 from sklearn.linear_model import LinearRegression
 from pga_analysis.helpers import set_size
-plt.style.use('dark_background')
+# plt.style.use('dark_background')
 
 
 def common_shot_end_locations(pga_data: pd.DataFrame):
