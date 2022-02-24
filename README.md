@@ -10,4 +10,4 @@ Requires `Python 3.8`.
 
 To run, create a virtual environment (recommended), and run `pip install -r requirements.txt`.
 
-The notebook is in `Clippd-Data-Science-Task.ipynb`.
+The notebook is in `Drive-For-Show-Putt-For-Dough.ipynb`.
