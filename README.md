@@ -1,17 +1,13 @@
-# Clippd-Data-Science-Task
+# Drive for show, putt for dough? 
 
-## Andre Chan
+### Objective
 
-For any enquiries, please contact `andre.chan1@gmail.com`
+We analyse data from the 2020-21 PGA Tour Golf season to investigate whether **driving** or **putting** contributes more to success in major golf tournaments. 
 
-### Usage
+### Requirements
 
-The project is in the notebook `Clippd-Data-Science-Task.ipynb`. 
+Requires `Python 3.8`.
 
-It imports source code from the `pga_analysis` folder and data from the `data` folder.
+To run, create a virtual environment (recommended), and run `pip install -r requirements.txt`.
 
-### Prerequisites
-
-The code was written in `Python 3.8` (but should run in `Python 3.5 or later`).
-
-To run, create a virtual environment (recommended) and run `pip install -r requirements.txt`
+The notebook is in `Clippd-Data-Science-Task.ipynb`.
